@@ -7,8 +7,9 @@
 ## Screenshot of the webpage in smaller device
 ![](/assets/image/password1.jpg)
 
-[ Click here to link to getPassword ](https://yuniksung.github.io/getPassword/)
-[ Click here to link to getPassword's github page ](https://github.com/yuniksung/getPassword.git)
+## Link to my project
+* [ Click here to link to getPassword webpage ](https://yuniksung.github.io/getPassword/)
+* [ Click here to link to getPassword's github page ](https://github.com/yuniksung/getPassword.git)
 
 ## Purpose
 
