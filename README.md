@@ -1,13 +1,14 @@
-# Password-Generator
+# getPassword
 
 
 ## Screenshot of the webpage in computer
-![](/assets/images/password.jpg)
+![](/assets/image/password.jpg)
 
 ## Screenshot of the webpage in smaller device
-![](/assets/images/password1.jpg)
+![](/assets/image/password1.jpg)
 
-[ Click here to link to Yunik's portfolio ](https://yuniksung.github.io/Yunique/)
+[ Click here to link to getPassword ](https://yuniksung.github.io/getPassword/)
+[ Click here to link to getPassword's github page ](https://github.com/yuniksung/getPassword.git)
 
 ## Purpose
 
