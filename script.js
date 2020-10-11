@@ -18,7 +18,6 @@ function getRandomChart(arr) {
   return randomChar;
 }
 
-
 // Generate function start
 function generatePassword() {
   var result = [];
